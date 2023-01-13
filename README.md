@@ -1,11 +1,11 @@
-To the awesome person who visiting this page, 
+To the awesome person who visits this page, 
 
-I’m Kadir Furkan Çaybaşı. Unity Developer over 3 years who is a Mechanical Engineer decided that working on games more fun than working on aircrafts! 
-I develop mobile games in hyper-casual and hybrid-casual genres. Also, I develop myself :) In the road, I learned SOLID principles, design patterns, performance optimization, asynchronous programming and more stuff about C#. I am looking forward to learn more and become a great developer.
+I’m Kadir Furkan Çaybaşı. Unity Developer over 3 years who is a Mechanical Engineer decided that working on games more fun than working on aircraft! 
+I develop mobile games in hyper-casual and hybrid-casual genres. Also, I develop myself :) On the road, I learned SOLID principles, design patterns, performance optimization, asynchronous programming, and more stuff about C#. I’m looking forward to learning more and becoming a great developer.
 
-Discover some games I made from https://chipmunk.games and to reach me about anything (prefably with good job offers) here is my e-mail k.furkancaybasi@gmail.com 
+Discover some games I made from https://chipmunk.games and to reach me about anything (preferably with good job offers) here is my e-mail k.furkancaybasi@gmail.com 
 
-Have a great day! 
+Have a great day!
 
 <!---
 kcaybasi/kcaybasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
