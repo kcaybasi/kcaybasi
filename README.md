@@ -5,7 +5,9 @@ I develop mobile games in hyper-casual and hybrid-casual genres. Also, I develop
 
 You can check out my public resporities which I opened to show off my skills. I would be delighted to hear regarding them. Any feedback is welcomed.
 
-Discover some games I made from https://chipmunk.games and https://play.google.com/store/apps/developer?id=Kadir+Furkan+Çaybaşı to reach me about anything (preferably with good job offers) here is my e-mail k.furkancaybasi@gmail.com 
+Discover some games I made from https://chipmunk.games and https://play.google.com/store/apps/developer?id=Kadir+Furkan+Çaybaşı 
+
+To reach me about anything (preferably with good job offers) here is my e-mail k.furkancaybasi@gmail.com 
 
 Have a great day!
 
